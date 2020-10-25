@@ -1,4 +1,4 @@
-# Chocollect-
+# Chocollect
 Game title : ちょこれくと!/Chocollect!
 
 This is a game created in GBStudio that can be played in a web browser.
