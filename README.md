@@ -1,8 +1,6 @@
 # Chocollect
 
-![EQ02CgvU4AEpdV2](https://user-images.githubusercontent.com/42378981/97100369-fc335600-16d5-11eb-8663-d52011c9193f.png )
-
-<img src="https://user-images.githubusercontent.com/42378981/97100369-fc335600-16d5-11eb-8663-d52011c9193f.png" width = "220px" height = "420px">
+<img src="https://user-images.githubusercontent.com/42378981/97100369-fc335600-16d5-11eb-8663-d52011c9193f.png" width = "220px">
 
 # Game title : ちょこれくと!/Chocollect!
 
